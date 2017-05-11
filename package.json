@@ -1,0 +1,17 @@
+{
+  "name": "Interest Calculator",
+  "version": "0.2.5",
+  "description": "Web application to calculate simple and compound interest",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "license": "MIT"
+}
